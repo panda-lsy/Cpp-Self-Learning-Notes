@@ -1,5 +1,11 @@
 # Cpp-Self-Learning-Notes
 
+## 在线查阅.md笔记文件
+
+本项目已同步到Gitbook，欢迎进行查阅。
+
+[在线GitBook](https://mc-shengxia.gitbook.io/cpp-self-learning-notes/)
+
 ## 介绍
 
 为了适应快速发展的计算机环境，我准备自学C++。这个仓库保存了我自学C++总结的笔记与项目运行代码。
