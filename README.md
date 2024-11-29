@@ -1,10 +1,10 @@
 # Cpp-Self-Learning-Notes
 
-## 在线查阅.md笔记文件
+## 相关链接
 
-本项目已同步到Gitbook，欢迎进行查阅。
+[GitHub项目地址](https://github.com/panda-lsy/Cpp-Self-Learning-Notes)
 
-[在线GitBook](https://mc-shengxia.gitbook.io/cpp-self-learning-notes/)
+[GitBook项目地址](https://mc-shengxia.gitbook.io/cpp-self-learning-notes/)
 
 ## 介绍
 
